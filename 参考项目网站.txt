@@ -1,4 +1,4 @@
-[招聘类的]
+﻿[招聘类的]
 拉钩网：http://www.lagou.com/
 猎聘网：http://www.liepin.com/
 
@@ -6,6 +6,7 @@
 京东：http://www.jd.com/
 美丽说：http://www.meilishuo.com/
 蘑菇街：http://www.mogujie.com/
+
 淘宝/天猫：https://www.taobao.com/
 
 [企业展示]
